@@ -46,5 +46,5 @@ os.makedirs("model",exist_ok=True)
 
 joblib.dump(pipeline,"model/pipeline.pkl")
 
-print("Pipelin  e Saved Succesfully")
+print("Pipeline Saved Succesfully")
 

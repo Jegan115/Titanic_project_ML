@@ -17,3 +17,4 @@ def predict_survival(passenger: Passenger):
     result = predict(passenger.model_dump())
 
     return result
+
