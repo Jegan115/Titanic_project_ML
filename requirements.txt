@@ -5,3 +5,13 @@ pandas==2.2.3
 pydantic>=2.11
 scikit-learn==1.6.1
 uvicorn==0.34.0
+
+
+#fastapi
+#joblib
+#numpy
+#pandas
+#pydantic
+#scikit-learn
+#uvicorn
+#streamlit
